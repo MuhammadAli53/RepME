@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "761256185371",
+    "project_id": "repme-f5d51",
+    "storage_bucket": "repme-f5d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761256185371:android:ad0ee4afe3a77451f6f2be",
+        "android_client_info": {
+          "package_name": "com.repME.voiceCollection.rep_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761256185371-q099le2ohilcuhb8m0lccs2d8r0lj4tc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.repME.voiceCollection.rep_me",
+            "certificate_hash": "f07fa9215960f7a917f4c7aba11dc10ca1252cc5"
+          }
+        },
+        {
+          "client_id": "761256185371-petasdhtsqcii9ajh3mv7rkorbkts13n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASgW1rBS1Px02ktJF8a5UFF0vngHRWBvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761256185371-petasdhtsqcii9ajh3mv7rkorbkts13n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761256185371-57c1ov225tubumaci1ba2eosrm4cu6mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.repMe.voicecollection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
